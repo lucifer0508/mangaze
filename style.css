@@ -71,7 +71,7 @@ body {
   display: inline-block;
 }
 
-.sign-up {
+.join-us-button {
   border-radius: 2rem;
   background-color: #665faf;
   border-color: #665faf;
@@ -79,24 +79,11 @@ body {
   color: #fff;
 }
 
-.sign-up:hover {
+.join-us-button:hover {
   background-color: #534d96;
   color: #fff;
 }
-.sign-up:active{
-  transform: scale(0.95);
-}
-.sign-in {
-  border-radius: 2rem;
-  background-color: #fff;
-  border-color: #665faf;
-  border-style: solid;
-}
-
-.sign-in:hover {
-  background-color: #f7f7f7;
-}
-.sign-in:active{
+.join-us-button:active{
   transform: scale(0.95);
 }
 /* STORY CONTAINER */
