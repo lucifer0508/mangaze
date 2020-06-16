@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^lucifer0508.github.io/mangaze/ [NC]
+RewriteRule ^(.*)$ http://www.lucifer0508.github.io/mangaze/$1 [L,R=301]
